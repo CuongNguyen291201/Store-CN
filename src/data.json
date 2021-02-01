@@ -1,0 +1,68 @@
+{
+    "products": [
+        {
+            "id": "1",
+            "image": "/images/1.jpg",
+            "name": "Shirt 1",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium itaque officia ratione quasi at aspernatur corporis. Accusantium, aliquid labore, animi expedita voluptatum at officiis possimus, quis error saepe magnam ipsa.",
+            "quantity": 20,
+            "price": 39
+        },
+        {
+            "id": "2",
+            "image": "/images/2.jpg",
+            "name": "Shirt 2",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium itaque officia ratione quasi at aspernatur corporis. Accusantium, aliquid labore, animi expedita voluptatum at officiis possimus, quis error saepe magnam ipsa.",
+            "quantity": 24,
+            "price": 50
+        },
+        {
+            "id": "3",
+            "image": "/images/3.jpg",
+            "name": "Shirt 3",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium itaque officia ratione quasi at aspernatur corporis. Accusantium, aliquid labore, animi expedita voluptatum at officiis possimus, quis error saepe magnam ipsa.",
+            "quantity": 30,
+            "price": 265
+        },
+        {
+            "id": "4",
+            "image": "/images/4.jpg",
+            "name": "Shirt 4",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium itaque officia ratione quasi at aspernatur corporis. Accusantium, aliquid labore, animi expedita voluptatum at officiis possimus, quis error saepe magnam ipsa.",
+            "quantity": 78,
+            "price": 121
+        },
+        {
+            "id": "5",
+            "image": "/images/3.jpg",
+            "name": "Shirt 5",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium itaque officia ratione quasi at aspernatur corporis. Accusantium, aliquid labore, animi expedita voluptatum at officiis possimus, quis error saepe magnam ipsa.",
+            "quantity": 6,
+            "price": 89
+        },
+        {
+            "id": "6",
+            "image": "/images/2.jpg",
+            "name": "Shirt 6",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium itaque officia ratione quasi at aspernatur corporis. Accusantium, aliquid labore, animi expedita voluptatum at officiis possimus, quis error saepe magnam ipsa.",
+            "quantity": 15,
+            "price": 13
+        },
+        {
+            "id": "7",
+            "image": "/images/4.jpg",
+            "name": "Shirt 7",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium itaque officia ratione quasi at aspernatur corporis. Accusantium, aliquid labore, animi expedita voluptatum at officiis possimus, quis error saepe magnam ipsa.",
+            "quantity": 31,
+            "price": 43
+        },
+        {
+            "id": "8",
+            "image": "/images/1.jpg",
+            "name": "Shirt 8",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium itaque officia ratione quasi at aspernatur corporis. Accusantium, aliquid labore, animi expedita voluptatum at officiis possimus, quis error saepe magnam ipsa.",
+            "quantity": 1,
+            "price": 182
+        }
+    ]
+}

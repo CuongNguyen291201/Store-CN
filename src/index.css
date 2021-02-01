@@ -1,0 +1,41 @@
+*, *::after, *::before {
+  margin: 0 !important;
+  padding: 0 !important;
+  border: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --bg-nav: #ff8b66;
+  --color-nav: #fafafa;
+}
+
+a {
+  text-decoration: none;
+}
+
+/* Navbar */
+.Navbar {
+  background: var(--bg-nav);
+  color: var(--color-nav);
+}
+
+.nav {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.nav-item {
+  font-size: 1.5rem;
+}
+
+/* Product */
+
+.product {
+  border: 1px solid #2c387e;
+}
+
+/* Filter */
+.filter {
+  background: #b2ebf2;
+}
